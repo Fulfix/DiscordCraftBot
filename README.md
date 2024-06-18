@@ -13,7 +13,7 @@
 - Replace "YOUR_BOT_TOKEN_HERE" in the Python script with your actual bot token.
 
 ## complete the file:
-you have to complete the script start_server.sh
+you have to complete the script start_server.sh and replace "YOUR_SERVER_ADRESSE:PORT" by your ip of your server and replace "YOUR_BOT_TOKEN" by the token of your bot
 
 ## Python Installation:
 
