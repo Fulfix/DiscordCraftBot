@@ -12,10 +12,8 @@
 - To use the Discord bot, you need to obtain a bot token from the Discord Developer Portal.
 - Replace "YOUR_BOT_TOKEN_HERE" in the Python script with your actual bot token.
 
-## Minecraft Server IP:
-
-- Make sure you have a Minecraft server configured and running.
-- Replace "Your_server_adresse" in the Python script with the IP address of your Minecraft server.
+## complete the file:
+you have to complete the script start_server.sh
 
 ## Python Installation:
 
